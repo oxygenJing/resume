@@ -98,7 +98,7 @@
         {
             "name": "嘉伦雅思人力专员",
             "name_link": "",
-            "title": "技能：沟通，office使用，信息收集及整合",
+            "title": "技能：沟通，office使用，信息收集及整合，IELTS 6.5",
             "icon": "",
             "description": "协调各任课老师的上课时间，协助面试及学员信息收集",
             "time": "2014.09 - 2015.02",
@@ -110,7 +110,7 @@
             "title": "技能：网站漏洞类型了解，SQLmap",
             "icon": "",
             "description": "安装系统（windows & Linux），安全漏洞搜索及验证（sql注入），制作学校网络安全事件汇总ppt",
-            "time": "2014.09 - 2015.02",
+            "time": "2015.09 - 2016.06",
             "location": "上海 杨浦"
         },
 	{
@@ -118,14 +118,14 @@
             "name_link": "",
             "title": "技能：Linux，RNA-seq，github",
             "icon": "",
-            "description": "了解RNA-seq流程及lncRNA预测方法，通读tophat及cufflinks文档",
+            "description": "了解RNA-seq流程及lncRNA预测方法，通读Tophat及Cufflinks文档",
             "time": "2015.12 - 至今",
             "location": "上海 杨浦"
         }
     ],
     "SelfComment": [
 	{
-	    "description": "本人性格沉稳，富责任心，待人温和，自学能力强，对计算机充满兴趣。"
+	    "description": "本人性格沉稳，积极向上。富责任心，待人温和，自学能力强，乐于挑战。对计算机充满兴趣。"
 	}
     ]
 }
