@@ -89,29 +89,38 @@
         {
             "name": "毕业设计",
             "name_link": "",
-            "title": "负责人",
+            "title": "技能：Perl，R，PHP，MySQL，Linux，html，css，javascript",
             "icon": "",
             "description": "毕业设计为生物信息方向，使用perl进行了大量文本处理及简单数据挖掘，最终学习并用apache+php+mysql构建数据库网站。",
             "time": "2014.09 - 2015.05",
             "location": "陕西 杨凌"
         },
         {
-            "name": "嘉伦雅思",
+            "name": "嘉伦雅思人力专员",
             "name_link": "",
-            "title": "人力专员兼职",
+            "title": "技能：沟通，office使用，信息收集及整合",
             "icon": "",
             "description": "协调各任课老师的上课时间，协助面试及学员信息收集",
             "time": "2014.09 - 2015.02",
             "location": "陕西 西安"
         },
 	{
-            "name": "嘉伦雅思",
+            "name": "同济大学网络安全助管",
             "name_link": "",
-            "title": "人力专员兼职",
+            "title": "技能：网站漏洞类型了解，SQLmap",
             "icon": "",
-            "description": "协调各任课老师的上课时间，协助面试及学员信息收集",
+            "description": "安装系统（windows & Linux），安全漏洞搜索及验证（sql注入），制作学校网络安全事件汇总ppt",
             "time": "2014.09 - 2015.02",
-            "location": "陕西 西安"
+            "location": "上海 杨浦"
+        },
+	{
+            "name": "心力衰竭中非编码RNA的调节（课题）",
+            "name_link": "",
+            "title": "技能：Linux，RNA-seq，github",
+            "icon": "",
+            "description": "了解RNA-seq流程及lncRNA预测方法，通读tophat及cufflinks文档",
+            "time": "2015.12 - 至今",
+            "location": "上海 杨浦"
         }
     ],
     "SelfComment": [
