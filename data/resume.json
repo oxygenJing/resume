@@ -1,6 +1,6 @@
 {
     "avatar": "/resume/data/1.jpg",
-    "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
+    "background_image": "https://okinawa-labo.com/wp-content/uploads/2014/07/seaofoka.jpg",
     "basicinfo": {
         "name": "王文静",
         "description": "生命不止，奋斗不息",
@@ -8,7 +8,7 @@
         "profession": "生物医学工程",
         "sex": "女",
         "education" : "硕士",
-        "workage": "2018届毕业",
+        "workage": "2018年毕业",
         "phone": "15021998296",
         "email": "oxygenjing@gmail.com"
     },
@@ -37,6 +37,44 @@
             "type": "home",
             "link": "http://oxygenjing.github.io",
             "icon": ""
+        }
+    ],
+	 "ProjectExperience": [
+        {
+            "name": "ETips",
+            "name_link": "http://etips.github.io/",
+            "title": "Android App, 作者",
+            "icon": "",
+            "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
+            "time": "2013.07 - 至今",
+            "location": ""
+        },
+        {
+            "name": "东莞技能培训中心",
+            "name_link": "",
+            "title": "Android App/PHP后端, 项目负责人",
+            "icon": "",
+            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
+            "time": "2014.08 - 2014.12",
+            "location": ""
+        },
+        {
+            "name": "silentor",
+            "name_link": "https://github.com/Jayin/silentor",
+            "title": "JavaScript, forker",
+            "icon": "",
+            "description": "纯前端，基于markdown的博客",
+            "time": "2014.10 - 至今",
+            "location": ""
+        },
+        {
+            "name": "更多",
+            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
+            "title": "",
+            "icon": "",
+            "description": "",
+            "time": "",
+            "location": ""
         }
     ],
     "Awards": [
@@ -86,44 +124,6 @@
             "description": "基于开源商城系统OpenCart二次开发一外贸商城",
             "time": "2014.07 - 2014.08",
             "location": "广东 江门"
-        }
-    ],
-    "ProjectExperience": [
-        {
-            "name": "ETips",
-            "name_link": "http://etips.github.io/",
-            "title": "Android App, 作者",
-            "icon": "",
-            "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
-            "location": ""
-        },
-        {
-            "name": "东莞技能培训中心",
-            "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
-            "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
-            "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
         }
     ]
 }
