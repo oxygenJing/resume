@@ -39,42 +39,24 @@
             "icon": ""
         }
     ],
-	 "ProjectExperience": [
+	 "StudyExperience": [
         {
-            "name": "ETips",
-            "name_link": "http://etips.github.io/",
-            "title": "Android App, 作者",
+            "name": "西北农林科技大学（985高校）",
+	    "name_link": "",
+            "title": "生物技术·学士",
             "icon": "",
-            "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
-            "location": ""
+            "description": "主修课程：高等数学，分子生物学，细胞生物学，生物信息学，Linux基础",
+            "time": "2011.09 - 2015.06",
+            "location": "陕西"
         },
         {
-            "name": "东莞技能培训中心",
+            "name": "同济大学（985高校）",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "title": "生物医学工程",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
-            "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
+            "description": "主修课程：生物信息学应用，生物信息学软件及数据库介绍，肿瘤学",
+            "time": "2015.09 - 至今",
+            "location": "上海"
         }
     ],
     "Awards": [
